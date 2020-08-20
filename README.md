@@ -2,7 +2,7 @@
 
 This repo is a landing page for a self introduction to Harris Yang.
 
-I will include my resume here.
+I will include my resume in the same repo. [Link](https://github.com/harrisyang611/Harris-Yang-611/blob/master/Yunkun%20Yang's%20official%20resume.pdf)
 
 Here are the projects I have done:
 
