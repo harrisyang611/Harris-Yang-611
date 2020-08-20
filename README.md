@@ -8,7 +8,8 @@ Here are the projects I have done:
 
 [Capstone Project](https://github.com/harrisyang611/Capstone_project)
 
-- This is a project to find the optimal location to open a new shop, notebook can be found [nbviewer](https://nbviewer.jupyter.org/github/harrisyang611/Coursera_Capstone/blob/master/Capstone_Project_Battle_of_Neighbour_Final_Peoject.ipynb)
+- This is a project to find the optimal location to open a new shop.
+- Notebook can be found [nbviewer](https://nbviewer.jupyter.org/github/harrisyang611/Coursera_Capstone/blob/master/Capstone_Project_Battle_of_Neighbour_Final_Peoject.ipynb)
 
 - Report: [PDF](https://github.com/harrisyang611/Coursera_Capstone/blob/master/Report.pdf)
 
