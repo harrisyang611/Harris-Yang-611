@@ -16,7 +16,18 @@ Here are the projects I have done:
 - Blog Post: [Medium](https://medium.com/@hadesyang14/where-to-open-a-new-barbershop-in-toronto-137f5b3b573b)
 
 
+[Big Data Challenge](https://github.com/harrisyang611/BDC-BigDataChallenge2020-)
+
+- This is a project to analyze Covid-19 about the ecovery rate in each province.
+
+- Done for Big Data Challenge supported by STEM Fellowship
+
+- The final report can be found here [Report](https://github.com/harrisyang611/BDC-BigDataChallenge2020-/blob/master/Report/UnBDC_2020_Project_Report_7185_g0149un9m44.pdf)
+
+
+
 
 [Shiny App Data Quality Testing](https://github.com/harrisyang611/Shiny-App-Data-Quality-Test)
 
 - This is a shiny app for self-generating data quality report, detailed can be found under the repo.
+
